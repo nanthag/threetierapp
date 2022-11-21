@@ -6,4 +6,79 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="bin\Release\net6.0\publish\appsettings.Development.json" />
+    <Content Include="bin\Release\net6.0\publish\appsettings.json" />
+    <Content Include="bin\Release\net6.0\publish\threetierapp.deps.json" />
+    <Content Include="bin\Release\net6.0\publish\threetierapp.runtimeconfig.json" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\css\site.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\favicon.ico" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\lib\jquery\LICENSE.txt" />
+    <Content Include="bin\Release\net6.0\publish\wwwroot\threetierapp.styles.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Release\net6.0\publish\threetierapp.dll" />
+    <None Include="bin\Release\net6.0\publish\threetierapp.exe" />
+    <None Include="bin\Release\net6.0\publish\threetierapp.pdb" />
+    <None Include="bin\Release\net6.0\publish\web.config" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\js\site.js" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\bootstrap\LICENSE" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\jquery-validation\dist\additional-methods.js" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\jquery-validation\dist\additional-methods.min.js" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.js" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\jquery-validation\LICENSE.md" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\jquery\dist\jquery.js" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\jquery\dist\jquery.min.js" />
+    <None Include="bin\Release\net6.0\publish\wwwroot\lib\jquery\dist\jquery.min.map" />
+  </ItemGroup>
+
 </Project>
